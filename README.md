@@ -1,9 +1,10 @@
-- Hi, I’m Sudhanshu Dalela (@sudhanshudalela)
-- Welcome to my GitHub page. It's still a developemnt in progress but I'll soon be pushing a lot of my projects here
-- I’m a Master's student, specializing in Business Analytics from University of California, San Diego
-- Have taken many interesting courses like Bayesian ML, Unstructured Data, Recommender Systems, Big Data Analytics, Customer Analytics, Fraud Analytics
-- Interested in Big Data technologies that can help organizations make informed business decisions
-- Actively looking for full-time opportunities as a Data Scientist, Data Engineer, Analyst in the US
+- Hi, I’m Sudhanshu Dalela
+- I’m a Master's student, specializing in Business Analytics from the University of California, San Diego
+- During my Master's, I took many interesting courses like Unstructured Data, Recommender Systems, Bayesian ML, Big Data Analytics, Customer Analytics, Fraud Analytics, etc.
+- Most of the courses required expertise in Python and SQL
+- Also, I've completed many MOOCs pertaining to Machine Learning, Depp Learning, etc. and applied the learnings in the above courses
+- I've previously worked with Ernst & Young with the Analytics team for 2 years
+- Currently, I'm looking for full-time opportunities as a Data Scientist, Data Engineer, Analyst in the US and actively applying for the same
 - You can reach me on [LinkedIn](https://www.linkedin.com/in/sudhanshudalela/) for more information
 
 <!---
