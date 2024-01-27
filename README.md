@@ -1,11 +1,13 @@
-- Hi, I’m Sudhanshu Dalela
-- I’m a Master's student, specializing in Business Analytics from the University of California, San Diego
-- During my Master's, I took many interesting courses like Unstructured Data, Recommender Systems, Bayesian ML, Big Data Analytics, Customer Analytics, Fraud Analytics, and Scalable Analytics
-- Most of the courses required expertise in Python and SQL
-- Also, I've completed some mainstream MOOCs pertaining to Machine Learning and Depp Learning and applied their learnings in the above courses
-- I've previously worked with Ernst & Young with the Analytics team for 2 years
-- Currently, I'm looking for full-time opportunities as a Data Scientist, Data Engineer, Analyst in the US and actively applying for the same
+- Welcome! I am Sudhanshu Dalela. I have almost 4 years of work experience as a Data Scientist in two of the top consulting firms of India
+- I earned my Master's degree from the University of California, San Diego, specializing in Business Analytics
+- During my Master's, I took many interesting courses like Unstructured Data, Customer Analytics, Fraud Analytics, Recommender Systems, ML, Big Data, and Scalable Analytics
+- All of the courses required expertise either in Python or SQL, hence I am well-versed in both along with a lot of knowledge on building ML models
+- I also have a Bachelor's in Engineering from the prestigious University of Delhi, India
+- Additionally, I've completed some mainstream MOOCs on Machine Learning and Depp Learning and applied their learnings throughout my career
+
+- Currently, I'm looking for full-time opportunities as a Data Scientist, Data Engineer, or Analyst in the US, and I am actively applying for the same
 - You can reach me on [LinkedIn](https://www.linkedin.com/in/sudhanshudalela/) for more information
+- There are many private repositories related to my work you can request access to
 
 <!---
 sudhanshudalela/sudhanshudalela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
