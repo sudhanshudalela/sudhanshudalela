@@ -1,4 +1,4 @@
-- Welcome! I am Sudhanshu Dalela. I have almost 4 years of work experience as a Data Scientist in two of the top consulting firms of India
+- Welcome to my GitHub profile! I am Sudhanshu Dalela. I have almost 4 years of work experience as a Data Scientist in two of the largest consulting firms in the world
 - I earned my Master's degree from the University of California, San Diego, specializing in Business Analytics
 - During my Master's, I took many interesting courses like Unstructured Data, Customer Analytics, Fraud Analytics, Recommender Systems, ML, Big Data, and Scalable Analytics
 - All of the courses required expertise either in Python or SQL, hence I am well-versed in both along with a lot of knowledge on building and testing ML models
